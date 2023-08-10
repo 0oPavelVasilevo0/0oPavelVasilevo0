@@ -5,7 +5,14 @@ Frontend-developer
 ------------------
 <b>Completed courses</b>
 
-https://www.sololearn.com/certificates/CC-BPNTOOG2 https://www.sololearn.com/certificates/CC-I0WDJNKJ https://www.sololearn.com/certificates/CC-Z1PPHERS https://www.sololearn.com/certificates/CC-MVHF5VOT https://www.sololearn.com/certificates/CC-WJYMGE1T https://www.freecodecamp.org/certification/PavelVasilev/responsive-web-design https://www.freecodecamp.org/certification/PavelVasilev/javascript-algorithms-and-data-structures</br>At the final stage: https://www.freecodecamp.org/learn/front-end-development-libraries/
+https://www.sololearn.com/certificates/CC-BPNTOOG2<br/>
+https://www.sololearn.com/certificates/CC-I0WDJNKJ</br>
+https://www.sololearn.com/certificates/CC-Z1PPHERS</br>
+https://www.sololearn.com/certificates/CC-MVHF5VOT</br>
+https://www.sololearn.com/certificates/CC-WJYMGE1T</br>
+https://www.freecodecamp.org/certification/PavelVasilev/responsive-web-design</br>
+https://www.freecodecamp.org/certification/PavelVasilev/javascript-algorithms-and-data-structures</br>
+At the final stage: https://www.freecodecamp.org/learn/front-end-development-libraries/
 
 * 🌍  I'm based in World
 * ✉️  You can contact me at [karterpahan@gmail.com](mailto:karterpahan@gmail.com)
