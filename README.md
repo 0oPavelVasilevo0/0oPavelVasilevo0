@@ -12,6 +12,7 @@ Frontend-developer
 * https://www.sololearn.com/certificates/CC-WJYMGE1T</br>
 * https://www.freecodecamp.org/certification/PavelVasilev/responsive-web-design</br>
 * https://www.freecodecamp.org/certification/PavelVasilev/javascript-algorithms-and-data-structures</br>
+* https://www.sololearn.com/certificates/CC-SQR4GX4O</br>
 * At the final stage: https://www.freecodecamp.org/learn/front-end-development-libraries/
 
 * 🌍  I'm based in World
