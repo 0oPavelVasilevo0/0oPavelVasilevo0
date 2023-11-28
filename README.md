@@ -20,7 +20,7 @@ Frontend-developer
 * https://www.freecodecamp.org/certification/PavelVasilev/front-end-development-libraries
 
 * 🌍  I'm based in World
-* ✉️  You can contact me at [karterpahan@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
+* ✉️  You can contact me at [pavel.vasilev.vik@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
 
 ### Skills
 
