@@ -18,6 +18,9 @@ Frontend-developer
 * https://www.freecodecamp.org/certification/PavelVasilev/javascript-algorithms-and-data-structures</br>
 * https://www.sololearn.com/certificates/CC-SQR4GX4O</br>
 * https://www.freecodecamp.org/certification/PavelVasilev/front-end-development-libraries
+<p>
+  <a href="https://coursera.org/share/74057b2518a6eb4ea01f59ece3c407ed" target="_blank>Programming with JavaScript</a>
+</p>
 
 * 🌍  I'm based in World
 * ✉️  You can contact me at [pavel.vasilev.vik@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
