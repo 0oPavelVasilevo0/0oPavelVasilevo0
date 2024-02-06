@@ -19,7 +19,7 @@ Frontend-developer
 * <a href="https://www.sololearn.com/certificates/CC-SQR4GX4O" target="_blank" >React+Redux</a>
 * <a href="https://www.freecodecamp.org/certification/PavelVasilev/front-end-development-libraries" target="_blank" >Front-end-development-libraries</a>
 * <a href="https://coursera.org/share/74057b2518a6eb4ea01f59ece3c407ed" target="_blank" >Programming with JavaScript</a>
-* <a href="https://coursera.org/share/9d92844b212faba989c361c15f7c0f3d" target="_blank" rel="noreferrer">React Native</a>
+* <a href="https://coursera.org/share/9d92844b212faba989c361c15f7c0f3d" target="_blank" >React Native</a>
 
 * 🌍  I'm based in World
 * ✉️  You can contact me at [pavel.vasilev.vik@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
