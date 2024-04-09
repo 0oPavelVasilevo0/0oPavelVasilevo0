@@ -6,6 +6,11 @@ Frontend-developer
 <b>My works</b>
 
 * https://furatlt.ru/
+  
+<b>Test tasks</b>
+
+* https://metamask-wallet-next.vercel.app/
+* https://project-next-auth-clerk.vercel.app/
 
 <b>Completed courses</b>
 
