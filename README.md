@@ -5,12 +5,12 @@ Frontend-developer
 ------------------
 <b>My works</b>
 
-* https://furatlt.ru/
+* <a href="https://furatlt.ru/" target="_blank">furatlt</a>
   
 <b>Test tasks</b>
 
-* https://metamask-wallet-next.vercel.app/
-* https://project-next-auth-clerk.vercel.app/
+* <a href="https://metamask-wallet-next.vercel.app/" target="_blank">metamask-wallet</a>
+* <a href="https://project-next-auth-clerk.vercel.app/" target="_blank">next-auth-clerk</a>
 
 <b>Completed courses</b>
 
