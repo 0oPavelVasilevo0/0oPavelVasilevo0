@@ -1,30 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
+Hi! My name is Pavel
 =============================================================================================================================
 
 Frontend-developer
 ------------------
-<b>My works</b>
 
-* <a href="https://furatlt.ru/" target="_blank">furatlt</a>
-  
-<b>Test tasks</b>
+* <a href="https://pavel-vasilev-cv.vercel.app" target="_blank" >Resume</a>
 
-* <a href="https://metamask-wallet-next.vercel.app/" target="_blank">metamask-wallet</a>
-* <a href="https://project-next-auth-clerk.vercel.app/" target="_blank">next-auth-clerk</a>
-
-<b>Completed courses</b>
-
-* <a href="https://www.sololearn.com/certificates/CC-BPNTOOG2" target="_blank" >Introduction to HTML</a>
-* <a href="https://www.sololearn.com/certificates/CC-I0WDJNKJ" target="_blank" >Introduction to CSS</a>
-* <a href="https://www.sololearn.com/certificates/CC-Z1PPHERS" target="_blank" >Introduction to JavaScript</a>
-* <a href="https://www.sololearn.com/certificates/CC-MVHF5VOT" target="_blank" >JavaScript Intermediate</a>
-* <a href="https://www.sololearn.com/certificates/CC-WJYMGE1T" target="_blank" >Introduction to Python</a>
-* <a href="https://www.freecodecamp.org/certification/PavelVasilev/responsive-web-design" target="_blank" >Responsive-web-design</a>
-* <a href="https://www.freecodecamp.org/certification/PavelVasilev/javascript-algorithms-and-data-structures" target="_blank" >Javascript-algorithms-and-data-structures</a>
-* <a href="https://www.sololearn.com/certificates/CC-SQR4GX4O" target="_blank" >React+Redux</a>
-* <a href="https://www.freecodecamp.org/certification/PavelVasilev/front-end-development-libraries" target="_blank" >Front-end-development-libraries</a>
-* <a href="https://coursera.org/share/74057b2518a6eb4ea01f59ece3c407ed" target="_blank" >Programming with JavaScript</a>
-* <a href="https://coursera.org/share/9d92844b212faba989c361c15f7c0f3d" target="_blank" >React Native</a>
 
 * 🌍  I'm based in World
 * ✉️  You can contact me at [pavel.vasilev.vik@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
