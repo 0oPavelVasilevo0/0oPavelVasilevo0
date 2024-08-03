@@ -6,8 +6,6 @@ Frontend-developer
 
 * <a href="https://pavel-vasilev-cv.vercel.app" target="_blank" >Resume</a>
 
-
-* 🌍  I'm based in World
 * ✉️  You can contact me at [pavel.vasilev.vik@gmail.com](mailto:pavel.vasilev.vik@gmail.com)
 
 ### Skills
